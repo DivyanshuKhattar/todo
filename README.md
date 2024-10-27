@@ -1,16 +1,12 @@
-# assignments
+# Todo App
 
-A new Flutter project.
+Todo app to track the tasks and progress.
 
-## Getting Started
+## Demonstration
 
-This project is a starting point for a Flutter application.
+This project includes local storage, allowing users to save their data locally and update the status later.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Video](https://drive.google.com/file/d/10aaf8UyN8KKBpeliiskIMZ-CWkYnOtOQ/view?usp=drive_link)
+- [APK](https://drive.google.com/file/d/1hBE1xqBGS1n2OGV3bGxFbYt6fGn8GUaI/view?usp=drive_link)
