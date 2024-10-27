@@ -8,7 +8,7 @@ class CustomToast {
       SnackBar(
         content: Text(msg),
         duration: const Duration(seconds: 2),
-        behavior: SnackBarBehavior.floating,
+        behavior: SnackBarBehavior.fixed,
       ),
     );
   }

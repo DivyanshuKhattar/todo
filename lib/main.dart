@@ -1,7 +1,6 @@
 import 'package:assignments/commons_functions/common_functions.dart';
 import 'package:assignments/database_helper/local_list_helper.dart';
-import 'package:assignments/resources/app_colors.dart';
-import 'package:assignments/resources/global_context_service.dart';
+import 'package:assignments/resources/styling/app_colors.dart';
 import 'package:assignments/utils/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -47,7 +46,6 @@ class MyApp extends StatelessWidget {
       ),
       initialRoute: '/todo_screen',
       routes: namedRoutes,
-      navigatorKey: NavigationService.navigatorKey,
     );
   }
 }
